@@ -372,10 +372,10 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](images/output_10_0.png)
 
 
-![phillips curve](phillipcurve.jpg)
+![phillips curve](images/phillipcurve.jpg)
 
 
 ```python
@@ -390,7 +390,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](images/output_12_0.png)
 
 
 
@@ -410,7 +410,7 @@ plt.title('US Inflation/Unemployment Relationship')
 
 
 
-![png](output_13_1.png)
+![png](images/output_13_1.png)
 
 
 
@@ -502,7 +502,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
+![png](images/output_17_0.png)
 
 
 
@@ -516,7 +516,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![png](images/output_18_0.png)
 
 
 
@@ -548,7 +548,7 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
+![png](images/output_20_0.png)
 
 
 
@@ -568,7 +568,7 @@ sns.heatmap(corr, cmap=cmap)
 
 
 
-![png](output_21_1.png)
+![png](images/output_21_1.png)
 
 
 
